@@ -1,0 +1,7 @@
+{
+  "id": "theme-citrus",
+  "name": "Citrus",
+  "version": "0.1.0",
+  "description": "Good vibes citrus. Lemon zest paper.",
+  "main": "dist/index.js"
+}
